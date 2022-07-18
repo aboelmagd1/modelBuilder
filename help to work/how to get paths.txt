@@ -1,0 +1,6 @@
+1-search with GDB name
+2-perss shift + right click 
+3-choose "capy as path"
+4-open file "excel sheet to make path" and past at "part1"
+5-type name of feature class in part2
+6-concatenate part1 and part2 ic path column
