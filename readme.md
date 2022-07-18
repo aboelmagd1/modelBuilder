@@ -28,13 +28,11 @@
                 <li>Collect feature class</li>
               <li>Convert mxd</li>
               <li>Export
-                 <ul>
-                     <li>Export features by Attribute with new GDB</li>
+              <ul>  
+               <li>Export features by Attribute with new GDB</li>
                      <li>export to autocade</li>
-
-                  </ul>
-              </li>
-       </li>
+                     </ul>  
+      </li>
       
   </ol>
 </details>
