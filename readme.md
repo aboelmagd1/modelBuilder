@@ -15,10 +15,7 @@
 
   <p align="center">
     model builder to help you automat some tasks
-    <br />
-    <a href="https://github.com/aboelmagd1/modelBuilder"><strong>Explore the docs »</strong></a>
-    <br />
-     </p>
+    </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,22 +23,19 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-     modelbuiders contains on
-      <ul>
-        <li>Collect feature class</li>
-      </ul>
-      <ul>
-        <li>Convert mxd</li>
-      </ul>
-      <ul>
-        <li>Export
-            <ul>
-               <li>Export features by Attribute with new GDB</li>
-               <li>export to autocade</li>
-          
-             </ul>
-         </li>
-      </ul>
+       modelbuiders contains on
+              <ul>
+                <li>Collect feature class</li>
+              <li>Convert mxd</li>
+              <li>Export
+                  <ul>
+                     <li>Export features by Attribute with new GDB</li>
+                     <li>export to autocade</li>
+
+                   </ul>
+              </li>
+       </li>
+    </ul>
       
   </ol>
 </details>
@@ -74,7 +68,7 @@ License for everyone.
 <!-- CONTACT -->
 ## Contact
 
-my Name - [@mahmoud-aboelmagd](https://github.com/aboelmagd1\)- [LinkedIn](https://www.linkedin.com/in/mahmoud-aboelmagd/) - mahmoudaboelmagdfree@gmail.com
+my Name - [@mahmoud-aboelmagd](https://github.com/aboelmagd1/) - [LinkedIn](https://www.linkedin.com/in/mahmoud-aboelmagd/) - mahmoudaboelmagdfree@gmail.com
 
 Project Link: [https://github.com/aboelmagd1/modelBuilder](https://github.com/aboelmagd1/modelBuilder)
 
