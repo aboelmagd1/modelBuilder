@@ -25,13 +25,18 @@
     <li>
        modelbuiders contains on
               <ul>
+                <li>Arcpro models</li>
                 <li>Collect feature class</li>
-              <li>Convert mxd</li>
-              <li>Export
-              <ul>  
-               <li>Export features by Attribute with new GDB</li>
-                     <li>export to autocade</li>
-                     </ul>  
+                <li>Convert mxd</li>
+                <li>cut fill</li>
+                <li>cut fill</li>
+                <li>digitizing</li>
+                <li>Export
+                  <ul>  
+                     <li>Export features by Attribute with new GDB</li>
+                           <li>export to autocade</li>
+                         </ul>  
+                 <liextract imge from ATTACH table</li>
       </li>
       
   </ol>
